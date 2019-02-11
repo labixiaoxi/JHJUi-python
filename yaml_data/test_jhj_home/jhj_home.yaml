@@ -1,0 +1,12 @@
+testinfo:
+    - id: home001
+      title: 登录
+      execute: 1
+testhome:
+    -
+      element_info: com.platform.jhj:id/action_my
+      find_type: id
+      send_keys :
+      index :
+      title : 点击我的
+    -

@@ -1,0 +1,84 @@
+testinfo:
+    - id: login001
+      title: 登录
+      execute: 1
+testLogin1:
+    -
+      element_info: com.platform.jhj:id/action_my
+      find_type: id
+      send_keys :
+      index :
+      title : 点击我的
+    -
+      element_info : com.platform.jhj:id/inputview
+      find_type: id
+      send_keys : 17770000302
+      index : 0
+      title : 输入账号
+    -
+      element_info : com.platform.jhj:id/inputview
+      find_type: id
+      send_keys : 123
+      index : 1
+      title : 输入密码
+    -
+      element_info : 登录
+      find_type : name
+      send_keys :
+      index :
+      title : 点击登录
+
+testLogin2:
+    -
+      element_info: com.platform.jhj:id/action_my
+      find_type: id
+      send_keys :
+      index :
+      title : 点击我的
+    -
+      element_info : com.platform.jhj:id/inputview
+      find_type: id
+      send_keys : 1777000030
+      index : 0
+      title : 输入账号
+    -
+      element_info : com.platform.jhj:id/inputview
+      find_type: id
+      send_keys : xiaoxi123
+      index : 1
+      title : 输入密码
+    -
+      element_info : 登录
+      find_type : name
+      send_keys :
+      index :
+      title : 点击登录
+
+testLogin3:
+    -
+      element_info: com.platform.jhj:id/action_my
+      find_type: id
+      send_keys :
+      index :
+      title : 点击我的
+    -
+      element_info : com.platform.jhj:id/inputview
+      find_type: id
+      send_keys : 17770000302
+      index : 0
+      title : 输入账号
+    -
+      element_info : com.platform.jhj:id/inputview
+      find_type: id
+      send_keys : xiaoxi123
+      index : 1
+      title : 输入密码
+    -
+      element_info : 登录
+      find_type : name
+      send_keys :
+      index :
+      title : 点击登录
+
+
+

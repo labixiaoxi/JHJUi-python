@@ -1,0 +1,1337 @@
+2019-01-03 16:42:01,561 -publicLogs.py - INFO: 手机系统版本:6.0.1
+ 
+2019-01-03 16:42:03,829 -publicLogs.py - INFO: 手机系统版本:6.0.1
+ 
+2019-01-03 16:42:15,417 -publicLogs.py - INFO: 手机系统版本:6.0.1
+ 
+2019-01-03 16:43:31,237 -publicLogs.py - INFO: 手机系统版本:6.0.1
+ 
+2019-01-03 16:43:37,651 -publicLogs.py - INFO: 手机系统版本:6.0.1
+ 
+2019-01-03 16:44:18,790 -publicLogs.py - INFO: 手机系统版本:6.0.1
+,型号vivo Y66
+ 
+2019-01-03 16:45:27,010 -publicLogs.py - INFO: 手机系统版本:6.0.1
+,型号:vivo Y66
+,品牌:PD1621
+,设备名称:PD1621
+ 
+2019-01-03 16:45:32,631 -publicLogs.py - INFO: 手机系统版本:6.0.1
+,型号:vivo Y66
+,品牌:PD1621
+,设备名称:PD1621
+ 
+2019-01-03 16:45:54,855 -publicLogs.py - INFO: 手机系统版本:6.0.1
+,型号:vivo Y66
+,品牌:vivo
+,设备名称:PD1621
+ 
+2019-01-03 16:46:20,865 -publicLogs.py - INFO: 手机系统版本:6.0.1
+,型号:vivo Y66
+,品牌:vivo
+,设备名称:PD1621
+ 
+2019-01-03 16:46:21,927 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-03 16:49:11,532 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-03 16:54:42,552 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-03 16:55:23,322 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-03 16:57:23,213 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-03 16:57:37,648 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-03 16:57:51,122 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:10:51,075 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:11:25,635 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:11:25,885 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:11:26,016 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:11:26,144 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:11:34,779 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:11:34,908 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:11:35,046 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:11:35,170 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:12:05,135 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:12:05,296 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:12:05,421 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:12:05,555 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:12:14,186 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:12:14,288 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:12:14,417 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:12:14,517 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:12:23,292 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:12:23,421 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:12:23,538 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:12:23,671 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:12:46,753 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:12:46,898 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:12:47,056 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:12:47,242 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:12:53,019 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:12:53,154 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:12:53,296 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:12:53,444 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:14:32,552 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:14:32,661 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:14:32,786 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:14:32,921 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:14:46,549 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:14:46,711 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:14:46,872 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:14:47,023 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:14:49,368 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:15:14,676 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:15:57,184 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:16:44,299 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:17:42,671 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:17:42,805 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:17:43,003 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:17:43,184 -publicLogs.py - ERROR: 设备异常,请确认 
+2019-01-04 09:17:44,598 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:21:45,454 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:22:14,750 -publicLogs.py - INFO:  
+2019-01-04 09:22:14,849 -publicLogs.py - INFO:  
+2019-01-04 09:22:14,980 -publicLogs.py - INFO:  
+2019-01-04 09:22:15,088 -publicLogs.py - INFO:  
+2019-01-04 09:22:16,177 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:22:25,526 -publicLogs.py - INFO:  
+2019-01-04 09:22:25,654 -publicLogs.py - INFO:  
+2019-01-04 09:22:25,838 -publicLogs.py - INFO:  
+2019-01-04 09:22:26,006 -publicLogs.py - INFO:  
+2019-01-04 09:22:27,138 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:24:47,247 -publicLogs.py - INFO: 设备6.0.1 
+2019-01-04 09:24:47,375 -publicLogs.py - INFO: 设备vivo Y66 
+2019-01-04 09:24:47,530 -publicLogs.py - INFO: 设备vivo 
+2019-01-04 09:24:47,696 -publicLogs.py - INFO: 设备PD1621 
+2019-01-04 09:24:48,993 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:24:59,076 -publicLogs.py - INFO: 设备6.0.1 
+2019-01-04 09:24:59,210 -publicLogs.py - INFO: 设备vivo Y66 
+2019-01-04 09:24:59,323 -publicLogs.py - INFO: 设备vivo 
+2019-01-04 09:24:59,450 -publicLogs.py - INFO: 设备PD1621 
+2019-01-04 09:25:00,453 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:25:08,352 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:32:37,193 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:48:26,161 -publicLogs.py - INFO: 设备连接异常或设备连接多个 
+2019-01-04 09:48:28,826 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:48:44,345 -publicLogs.py - INFO: ['6.0.1\r\n'] 
+2019-01-04 09:48:45,411 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:50:32,385 -publicLogs.py - INFO: 设备6.0.1型号vivo Y66品牌vivo设备名PD1621 
+2019-01-04 09:50:32,387 -publicLogs.py - INFO: ['6.0.1\r\n'] 
+2019-01-04 09:50:33,644 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:50:50,461 -publicLogs.py - INFO: 设备6.0.1型号vivo Y66品牌vivo设备名PD1621 
+2019-01-04 09:50:50,463 -publicLogs.py - INFO: 6.0.1 
+2019-01-04 09:50:51,421 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:51:13,424 -publicLogs.py - INFO: 设备6.0.1型号vivo Y66品牌vivo设备名PD1621 
+2019-01-04 09:51:13,427 -publicLogs.py - INFO: 6.0.1 
+2019-01-04 09:51:13,428 -publicLogs.py - INFO: ['6.0.1\r\n'] 
+2019-01-04 09:51:14,487 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:52:08,854 -publicLogs.py - INFO: 6.0.1 
+2019-01-04 09:52:08,855 -publicLogs.py - INFO: 设备6.0.1型号vivo Y66品牌vivo设备名PD1621 
+2019-01-04 09:52:08,858 -publicLogs.py - INFO: 6.0.1 
+2019-01-04 09:52:08,858 -publicLogs.py - INFO: ['6.0.1\r\n'] 
+2019-01-04 09:52:09,960 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:53:51,572 -publicLogs.py - INFO: ['6.0.1\r\n'] 
+2019-01-04 09:53:51,572 -publicLogs.py - INFO: 6.0.1 
+2019-01-04 09:53:51,573 -publicLogs.py - INFO: 设备6.0.1型号vivo Y66品牌vivo设备名PD1621 
+2019-01-04 09:53:51,575 -publicLogs.py - INFO: 6.0.1 
+2019-01-04 09:53:51,575 -publicLogs.py - INFO: ['6.0.1\r\n'] 
+2019-01-04 09:53:52,678 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:53:59,164 -publicLogs.py - INFO: ['6.0.1\r\n'] 
+2019-01-04 09:53:59,167 -publicLogs.py - INFO: 6.0.1 
+2019-01-04 09:54:00,273 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:55:02,555 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:55:14,107 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:55:26,377 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:55:42,388 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:56:02,224 -publicLogs.py - INFO: 6.0.1 
+2019-01-04 09:56:03,260 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 09:56:13,203 -publicLogs.py - INFO: 6.0.1 
+2019-01-04 09:56:14,259 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 14:09:11,066 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:10:27,713 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:12:53,042 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:14:02,480 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:15:03,762 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:15:12,765 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:17:58,259 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:19:19,246 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:19:57,022 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:21:01,250 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:21:35,368 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:23:20,224 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:23:28,763 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:24:10,201 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:24:19,210 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:25:08,233 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:28:53,979 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:29:51,878 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:30:02,654 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:30:18,358 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:30:44,088 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:30:50,696 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:31:01,842 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:31:13,575 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:31:48,799 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:33:01,855 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:33:34,937 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:33:53,946 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:34:48,463 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:35:04,749 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:35:31,276 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:35:31,315 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-04 14:37:07,750 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:37:07,796 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-04 14:51:47,530 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:51:47,576 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-04 14:52:01,408 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:52:09,061 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 14:52:09,200 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-04 14:57:25,135 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 14:58:26,673 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 15:00:50,618 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 15:01:49,305 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-04 15:01:50,482 -publicLogs.py - INFO: 手机分辨率:720x1280
+ 
+2019-01-04 15:03:57,398 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-04 15:05:53,384 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 15:18:31,311 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 15:18:31,457 -publicLogs.py - INFO: 生成的可用端口:[4727] 
+2019-01-04 15:18:31,530 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 15:18:31,657 -publicLogs.py - INFO: 生成的可用端口:[2000] 
+2019-01-04 15:18:31,730 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 15:18:31,730 -publicLogs.py - INFO: ['appium -a 127.0.0.1 -p 4727 -bp 2000 --chromedriver-port 9519 -U 5376f2f6 --session-override'] 
+2019-01-04 15:28:42,888 -publicLogs.py - INFO: 设备连接异常或设备连接多个 
+2019-01-04 15:40:43,660 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 15:40:43,808 -publicLogs.py - INFO: 生成的可用端口:[4727] 
+2019-01-04 15:40:43,885 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 15:40:43,986 -publicLogs.py - INFO: 生成的可用端口:[2000] 
+2019-01-04 15:40:44,059 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 15:40:44,059 -publicLogs.py - INFO: ['appium -a 127.0.0.1 -p 4727 -bp 2000 --chromedriver-port 9519 -U 5376f2f6 --session-override'] 
+2019-01-04 15:46:56,671 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 15:46:57,405 -publicLogs.py - INFO: 生成的可用端口:[4728] 
+2019-01-04 15:46:57,486 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 15:46:57,589 -publicLogs.py - INFO: 生成的可用端口:[2000] 
+2019-01-04 15:46:57,664 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 15:46:57,664 -publicLogs.py - INFO: ['appium -a 127.0.0.1 -p 4728 -bp 2000 --chromedriver-port 9519 -U 5376f2f6 --session-override'] 
+2019-01-04 15:51:18,734 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 15:51:19,176 -publicLogs.py - INFO: 生成的可用端口:[4729] 
+2019-01-04 15:51:19,250 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 15:51:19,344 -publicLogs.py - INFO: 生成的可用端口:[2000] 
+2019-01-04 15:51:19,424 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 15:51:19,424 -publicLogs.py - INFO: ['appium -a 127.0.0.1 -p 4729 -bp 2000 --chromedriver-port 9519 -U 5376f2f6 --session-override'] 
+2019-01-04 15:52:01,499 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-04 15:52:01,573 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 15:52:01,599 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 15:52:01,752 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-04 15:52:01,756 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 15:52:01,901 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-04 15:52:10,551 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-04 15:52:10,651 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 15:52:10,654 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 15:52:10,697 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-04 15:52:10,698 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 15:52:10,740 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-04 15:52:18,720 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 15:52:18,812 -publicLogs.py - INFO: 生成的可用端口:[4727] 
+2019-01-04 15:52:18,888 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 15:52:18,983 -publicLogs.py - INFO: 生成的可用端口:[2000] 
+2019-01-04 15:52:19,055 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 15:52:19,055 -publicLogs.py - INFO: ['appium -a 127.0.0.1 -p 4727 -bp 2000 --chromedriver-port 9519 -U 5376f2f6 --session-override'] 
+2019-01-04 16:11:02,296 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-04 16:11:02,400 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 16:11:02,401 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 16:11:02,444 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-04 16:11:02,446 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 16:11:02,486 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-04 16:14:34,184 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-04 16:15:23,375 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-04 16:15:23,451 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 16:15:23,453 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 16:15:23,496 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-04 16:15:23,499 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 16:15:23,542 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-04 16:15:41,230 -publicLogs.py - INFO: 获取成功 
+2019-01-04 16:15:47,043 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-04 16:15:47,134 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-04 16:15:47,137 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 16:15:47,177 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-04 16:15:47,180 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-04 16:15:47,221 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-04 16:16:05,996 -publicLogs.py - INFO: 获取成功 
+2019-01-07 16:10:35,401 -publicLogs.py - INFO: 操作步骤:---------------点击我的 
+2019-01-07 16:10:35,460 -publicLogs.py - INFO: 操作步骤:---------------输入账号 
+2019-01-07 16:10:35,473 -publicLogs.py - INFO: 操作步骤:---------------输入密码 
+2019-01-07 16:10:35,486 -publicLogs.py - INFO: 操作步骤:---------------点击登录 
+2019-01-07 16:10:35,500 -publicLogs.py - INFO: 操作步骤:---------------点击 
+2019-01-07 16:13:37,381 -publicLogs.py - INFO: 元素:---------------com.platform.jhj.uat:id/action_my 
+2019-01-07 16:13:37,382 -publicLogs.py - INFO: 元素类型---------------id 
+2019-01-07 16:13:37,384 -publicLogs.py - INFO: --------------- 
+2019-01-07 16:13:37,384 -publicLogs.py - INFO: --------------- 
+2019-01-07 16:13:37,385 -publicLogs.py - INFO: 操作步骤:---------------点击我的 
+2019-01-07 16:13:37,404 -publicLogs.py - INFO: 元素:---------------android.view.ViewGroup 
+2019-01-07 16:13:37,405 -publicLogs.py - INFO: 元素类型---------------ids 
+2019-01-07 16:13:37,407 -publicLogs.py - INFO: --------------- 
+2019-01-07 16:13:37,407 -publicLogs.py - INFO: --------------- 
+2019-01-07 16:13:37,410 -publicLogs.py - INFO: 操作步骤:---------------输入账号 
+2019-01-07 16:13:37,427 -publicLogs.py - INFO: 元素:---------------android.view.ViewGroup 
+2019-01-07 16:13:37,430 -publicLogs.py - INFO: 元素类型---------------ids 
+2019-01-07 16:13:37,430 -publicLogs.py - INFO: --------------- 
+2019-01-07 16:13:37,431 -publicLogs.py - INFO: --------------- 
+2019-01-07 16:13:37,434 -publicLogs.py - INFO: 操作步骤:---------------输入密码 
+2019-01-07 16:13:37,450 -publicLogs.py - INFO: 元素:---------------登录 
+2019-01-07 16:13:37,453 -publicLogs.py - INFO: 元素类型---------------name 
+2019-01-07 16:13:37,454 -publicLogs.py - INFO: --------------- 
+2019-01-07 16:13:37,456 -publicLogs.py - INFO: --------------- 
+2019-01-07 16:13:37,457 -publicLogs.py - INFO: 操作步骤:---------------点击登录 
+2019-01-07 16:13:37,474 -publicLogs.py - INFO: 元素:---------------com.platform.jhj:uat:id/text_cancel 
+2019-01-07 16:13:37,476 -publicLogs.py - INFO: 元素类型---------------id 
+2019-01-07 16:13:37,476 -publicLogs.py - INFO: --------------- 
+2019-01-07 16:13:37,479 -publicLogs.py - INFO: --------------- 
+2019-01-07 16:13:37,480 -publicLogs.py - INFO: 操作步骤:---------------点击 
+2019-01-08 10:19:01,869 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 10:19:01,960 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 10:19:01,976 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 10:19:02,181 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 10:19:02,184 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 10:19:02,226 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 11:32:48,367 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 11:32:48,480 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 11:32:48,483 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 11:32:48,575 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 11:32:48,578 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 11:32:48,615 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 11:33:02,023 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 11:33:02,094 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 11:33:02,095 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 11:33:02,134 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 11:33:02,137 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 11:33:02,176 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 11:34:01,394 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 11:34:01,687 -publicLogs.py - INFO: 生成的可用端口:[4727] 
+2019-01-08 11:34:01,757 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 11:34:01,846 -publicLogs.py - INFO: 生成的可用端口:[2000] 
+2019-01-08 11:34:01,917 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 11:34:01,917 -publicLogs.py - INFO: ['appium -a 127.0.0.1 -p 4727 -bp 2000 --chromedriver-port 9519 -U 5376f2f6 --session-override'] 
+2019-01-08 11:38:43,148 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 11:38:43,220 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 11:38:43,221 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 11:38:43,272 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 11:38:43,273 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 11:38:43,312 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 11:39:06,519 -publicLogs.py - INFO: 获取成功 
+2019-01-08 11:41:26,344 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 11:41:26,453 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 11:41:26,454 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 11:41:26,663 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 11:41:26,667 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 11:41:26,717 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 11:41:44,667 -publicLogs.py - INFO: 获取成功 
+2019-01-08 11:43:36,344 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 11:43:36,447 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 11:43:36,450 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 11:43:36,625 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 11:43:36,628 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 11:43:36,671 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 11:43:55,015 -publicLogs.py - INFO: 获取成功 
+2019-01-08 11:46:20,769 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 11:46:20,842 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 11:46:20,845 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 11:46:20,895 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 11:46:20,898 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 11:46:20,933 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 11:46:38,786 -publicLogs.py - INFO: 获取成功 
+2019-01-08 11:49:28,230 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 11:49:28,301 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 11:49:28,303 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 11:49:28,359 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 11:49:28,361 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 11:49:28,400 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 11:49:46,157 -publicLogs.py - INFO: 获取成功 
+2019-01-08 11:51:01,579 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 11:51:01,651 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 11:51:01,653 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 11:51:01,690 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 11:51:01,691 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 11:51:01,726 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 11:51:19,431 -publicLogs.py - INFO: 获取成功 
+2019-01-08 11:51:55,802 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 11:51:55,875 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 11:51:55,878 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 11:51:55,915 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 11:51:55,917 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 11:51:55,950 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 11:52:14,762 -publicLogs.py - INFO: 获取成功 
+2019-01-08 14:03:04,953 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 14:03:05,042 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 14:03:05,096 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 14:03:05,358 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 14:03:05,359 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 14:03:05,397 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 14:03:27,265 -publicLogs.py - INFO: 获取成功 
+2019-01-08 14:04:00,303 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 14:04:00,390 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 14:04:00,391 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 14:04:00,431 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 14:04:00,434 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 14:04:00,470 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 14:04:19,368 -publicLogs.py - INFO: 获取成功 
+2019-01-08 14:04:40,980 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 14:04:41,052 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 14:04:41,055 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 14:04:41,095 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 14:04:41,096 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 14:04:41,135 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 14:04:59,987 -publicLogs.py - INFO: 获取成功 
+2019-01-08 14:06:08,073 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 14:06:08,144 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 14:06:08,148 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 14:06:08,190 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 14:06:08,191 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 14:06:08,230 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 14:06:26,078 -publicLogs.py - INFO: 获取成功 
+2019-01-08 14:16:04,697 -publicLogs.py - INFO: 获取成功 
+2019-01-08 14:16:48,187 -publicLogs.py - INFO: 获取成功 
+2019-01-08 14:19:07,903 -publicLogs.py - INFO: 获取成功 
+2019-01-08 14:19:46,311 -publicLogs.py - INFO: 获取成功 
+2019-01-08 14:20:41,400 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 14:20:41,476 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 14:20:41,477 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 14:20:41,523 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 14:20:41,526 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 14:20:41,565 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 14:21:00,798 -publicLogs.py - INFO: 获取成功 
+2019-01-08 15:07:19,871 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 15:07:20,789 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 15:07:20,803 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 15:07:21,463 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 15:07:21,476 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 15:07:21,733 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 15:08:32,499 -publicLogs.py - INFO: 获取成功 
+2019-01-08 15:31:14,835 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 15:31:14,947 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 15:31:14,966 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 15:31:15,371 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 15:31:15,375 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 15:31:15,434 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 15:31:38,605 -publicLogs.py - INFO: 获取成功 
+2019-01-08 15:40:14,357 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 15:40:14,473 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 15:40:14,474 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 15:40:14,530 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 15:40:14,532 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 15:40:14,578 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 15:40:34,575 -publicLogs.py - INFO: 获取成功 
+2019-01-08 15:48:37,313 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 15:48:37,415 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 15:48:37,417 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 15:48:37,464 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 15:48:37,467 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 15:48:37,512 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 15:48:55,486 -publicLogs.py - INFO: 获取成功 
+2019-01-08 15:55:51,825 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 15:55:51,911 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 15:55:51,913 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 15:55:51,960 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 15:55:51,961 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 15:55:52,006 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 15:56:09,848 -publicLogs.py - INFO: 获取成功 
+2019-01-08 15:58:19,247 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 15:58:19,349 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 15:58:19,351 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 15:58:19,401 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 15:58:19,401 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 15:58:19,448 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 15:58:37,953 -publicLogs.py - INFO: 获取成功 
+2019-01-08 16:20:15,384 -publicLogs.py - INFO: 设备:adb server version (31) doesn't match this client (36); killing...
+ , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 16:20:15,469 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 16:20:15,470 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:20:15,526 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:20:15,529 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:20:15,585 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:20:35,022 -publicLogs.py - INFO: 获取成功 
+2019-01-08 16:20:51,496 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 16:20:51,578 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 16:20:51,579 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:20:51,625 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:20:51,628 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:20:51,671 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:21:11,423 -publicLogs.py - INFO: 获取成功 
+2019-01-08 16:23:54,558 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 16:23:54,684 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 16:23:54,687 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:23:54,746 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:23:54,749 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:23:54,818 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:24:12,903 -publicLogs.py - INFO: 获取成功 
+2019-01-08 16:26:39,148 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 16:26:39,234 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 16:26:39,236 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:26:39,286 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:26:39,289 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:26:39,336 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:26:58,660 -publicLogs.py - INFO: 获取成功 
+2019-01-08 16:36:16,276 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 16:36:16,365 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 16:36:16,378 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:36:16,431 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:36:16,444 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:36:16,502 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:36:19,565 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 16:36:19,657 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 16:36:19,660 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:36:19,707 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:36:19,707 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:36:19,757 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:36:46,309 -publicLogs.py - INFO: 获取成功 
+2019-01-08 16:38:15,821 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 16:38:15,921 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 16:38:15,924 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:38:15,970 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:38:15,973 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:38:16,019 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:38:35,421 -publicLogs.py - INFO: 获取成功 
+2019-01-08 16:50:24,334 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 16:50:24,418 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 16:50:24,421 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:50:24,469 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:50:24,470 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:50:24,520 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:50:42,573 -publicLogs.py - INFO: 获取成功 
+2019-01-08 16:55:16,207 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 16:55:16,290 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 16:55:16,292 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:55:16,342 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:55:16,344 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:55:16,392 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:55:34,430 -publicLogs.py - INFO: 获取成功 
+2019-01-08 16:57:03,944 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 16:57:04,039 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 16:57:04,042 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:57:04,092 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:57:04,092 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:57:04,145 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:57:23,065 -publicLogs.py - INFO: 获取成功 
+2019-01-08 16:57:32,246 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 16:57:32,336 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 16:57:32,339 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:57:32,388 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:57:32,391 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 16:57:32,436 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 16:57:51,963 -publicLogs.py - INFO: 获取成功 
+2019-01-08 17:06:12,519 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 17:06:12,729 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 17:06:12,736 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 17:06:12,888 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 17:06:12,894 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 17:06:13,119 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 17:06:37,818 -publicLogs.py - INFO: 获取成功 
+2019-01-08 17:11:41,375 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 17:11:41,490 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 17:11:41,493 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 17:11:41,579 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 17:11:41,584 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 17:11:41,661 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 17:12:03,638 -publicLogs.py - INFO: 获取成功 
+2019-01-08 17:28:41,996 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 17:28:42,229 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 17:28:42,236 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 17:28:42,440 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 17:28:42,447 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 17:28:42,634 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 17:29:17,928 -publicLogs.py - INFO: 获取成功 
+2019-01-08 17:39:04,272 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 17:39:06,499 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 17:39:06,539 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 17:39:07,905 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 17:39:07,937 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 17:39:09,196 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 17:41:03,578 -publicLogs.py - INFO: 获取成功 
+2019-01-08 17:41:53,881 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 17:41:56,269 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 17:41:56,305 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 17:41:57,836 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 17:41:57,858 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 17:41:58,921 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 17:44:55,316 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-08 17:44:56,963 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-08 17:44:56,992 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 17:44:58,257 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 17:44:58,309 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-08 17:44:59,703 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-08 17:45:50,941 -publicLogs.py - INFO: 获取成功 
+2019-01-09 15:41:42,970 -publicLogs.py - INFO: 设备:adb server version (31) doesn't match this client (36); killing...
+ , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-09 15:41:43,115 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-09 15:41:43,131 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-09 15:41:43,448 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-09 15:41:43,451 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-09 15:41:43,507 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-09 15:48:31,517 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-09 15:48:31,842 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-09 15:48:31,848 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-09 15:48:32,125 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-09 15:48:32,157 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-09 15:48:32,542 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-09 15:49:12,183 -publicLogs.py - INFO: 获取成功 
+2019-01-10 16:03:54,551 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 16:03:54,687 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 16:03:54,698 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:03:54,938 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:03:54,940 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:03:54,982 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:04:08,009 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 16:04:08,084 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 16:04:08,086 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:04:08,124 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:04:08,125 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:04:08,161 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:04:53,217 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 16:04:53,289 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 16:04:53,290 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:04:53,329 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:04:53,332 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:04:53,371 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:05:15,904 -publicLogs.py - INFO: 获取成功 
+2019-01-10 16:09:21,673 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 16:09:21,742 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 16:09:21,744 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:09:21,788 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:09:21,789 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:09:21,831 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:09:40,941 -publicLogs.py - INFO: 获取成功 
+2019-01-10 16:12:31,798 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 16:12:31,868 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 16:12:31,871 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:12:31,908 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:12:31,911 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:12:31,947 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:12:50,523 -publicLogs.py - INFO: 获取成功 
+2019-01-10 16:13:52,344 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 16:13:52,423 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 16:13:52,426 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:13:52,460 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:13:52,461 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:13:52,496 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:14:11,759 -publicLogs.py - INFO: 获取成功 
+2019-01-10 16:19:00,707 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 16:19:00,778 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 16:19:00,780 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:19:00,819 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:19:00,822 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:19:00,858 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:19:18,737 -publicLogs.py - INFO: 获取成功 
+2019-01-10 16:24:37,157 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 16:24:37,227 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 16:24:37,230 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:24:37,263 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:24:37,266 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:24:37,298 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:24:55,022 -publicLogs.py - INFO: 获取成功 
+2019-01-10 16:29:05,548 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 16:29:05,631 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 16:29:05,634 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:29:05,673 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:29:05,674 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:29:05,710 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:29:23,384 -publicLogs.py - INFO: 获取成功 
+2019-01-10 16:31:31,424 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 16:31:31,489 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 16:31:31,490 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:31:31,529 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:31:31,530 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:31:31,562 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:31:48,996 -publicLogs.py - INFO: 获取成功 
+2019-01-10 16:35:01,680 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 16:35:01,773 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 16:35:01,776 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:35:01,818 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:35:01,819 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:35:01,857 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:35:19,523 -publicLogs.py - INFO: 获取成功 
+2019-01-10 16:53:28,184 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 16:53:28,253 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 16:53:28,255 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:53:28,292 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:53:28,293 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:53:28,332 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:53:47,226 -publicLogs.py - INFO: 获取成功 
+2019-01-10 16:58:57,831 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 16:58:57,911 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 16:58:57,914 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:58:57,953 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:58:57,954 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 16:58:57,993 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 16:59:15,812 -publicLogs.py - INFO: 获取成功 
+2019-01-10 17:05:50,250 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 17:05:50,336 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 17:05:50,339 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:05:50,378 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:05:50,380 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:05:50,414 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:06:08,040 -publicLogs.py - INFO: 获取成功 
+2019-01-10 17:08:38,033 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 17:08:38,102 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 17:08:38,105 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:08:38,144 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:08:38,145 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:08:38,186 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:08:55,974 -publicLogs.py - INFO: 获取成功 
+2019-01-10 17:14:19,858 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 17:14:19,937 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 17:14:19,938 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:14:19,983 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:14:19,984 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:14:20,023 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:14:38,107 -publicLogs.py - INFO: 获取成功 
+2019-01-10 17:17:24,559 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 17:17:24,631 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 17:17:24,634 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:17:24,677 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:17:24,678 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:17:24,714 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:17:42,387 -publicLogs.py - INFO: 获取成功 
+2019-01-10 17:22:43,322 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 17:22:43,405 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 17:22:43,407 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:22:43,456 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:22:43,459 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:22:43,515 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:23:01,328 -publicLogs.py - INFO: 获取成功 
+2019-01-10 17:29:32,122 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 17:29:32,200 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 17:29:32,204 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:29:32,246 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:29:32,250 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:29:32,283 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:29:50,573 -publicLogs.py - INFO: 获取成功 
+2019-01-10 17:31:22,648 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 17:31:22,723 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 17:31:22,726 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:31:22,763 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:31:22,766 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:31:22,802 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:31:40,539 -publicLogs.py - INFO: 获取成功 
+2019-01-10 17:36:11,411 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 17:36:11,490 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 17:36:11,492 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:36:11,535 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:36:11,536 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:36:11,571 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:36:29,470 -publicLogs.py - INFO: 获取成功 
+2019-01-10 17:49:40,585 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 17:49:40,655 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 17:49:40,658 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:49:40,938 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:49:40,940 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:49:40,983 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:50:04,920 -publicLogs.py - INFO: 获取成功 
+2019-01-10 17:53:09,490 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 17:53:09,559 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 17:53:09,631 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:53:09,835 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:53:09,839 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:53:09,894 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:53:28,209 -publicLogs.py - INFO: 获取成功 
+2019-01-10 17:56:05,421 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 17:56:05,513 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 17:56:05,516 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:56:05,551 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:56:05,552 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:56:05,588 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:56:23,318 -publicLogs.py - INFO: 获取成功 
+2019-01-10 17:57:07,170 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 17:57:07,246 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 17:57:07,247 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:57:07,285 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:57:07,286 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 17:57:07,325 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 17:57:26,213 -publicLogs.py - INFO: 获取成功 
+2019-01-10 18:02:55,980 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 18:02:56,049 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 18:02:56,052 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 18:02:56,214 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 18:02:56,217 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 18:02:56,253 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 18:03:16,115 -publicLogs.py - INFO: 获取成功 
+2019-01-10 18:03:56,255 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 18:03:56,323 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 18:03:56,326 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 18:03:56,365 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 18:03:56,367 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 18:03:56,404 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 18:04:15,878 -publicLogs.py - INFO: 获取成功 
+2019-01-10 18:08:01,533 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-10 18:08:01,601 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-10 18:08:01,604 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 18:08:01,641 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 18:08:01,644 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-10 18:08:01,677 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-10 18:08:19,895 -publicLogs.py - INFO: 获取成功 
+2019-01-15 09:29:26,924 -publicLogs.py - ERROR: 手机设备获取有异常 
+2019-01-15 09:29:26,940 -publicLogs.py - ERROR: 手机设备获取有异常 
+2019-01-15 09:29:26,940 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 09:29:27,059 -publicLogs.py - INFO: 生成的可用端口:[4727] 
+2019-01-15 09:29:27,128 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 09:29:27,299 -publicLogs.py - INFO: 生成的可用端口:[2001] 
+2019-01-15 09:29:27,368 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 09:29:27,369 -publicLogs.py - INFO: ['appium -a 127.0.0.1 -p 4727 -bp 2001 --chromedriver-port 9519 -U 5376f2f6 --session-override'] 
+2019-01-15 09:30:03,928 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 09:30:04,017 -publicLogs.py - INFO: 生成的可用端口:[4727] 
+2019-01-15 09:30:04,084 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 09:30:04,243 -publicLogs.py - INFO: 生成的可用端口:[2001] 
+2019-01-15 09:30:04,309 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 09:30:04,311 -publicLogs.py - INFO: ['appium -a 127.0.0.1 -p 4727 -bp 2001 --chromedriver-port 9519 -U 5376f2f6 --session-override'] 
+2019-01-15 10:11:32,990 -publicLogs.py - ERROR: 手机设备获取有异常 
+2019-01-15 10:11:32,993 -publicLogs.py - ERROR: 手机设备获取有异常 
+2019-01-15 10:11:32,994 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 10:11:33,183 -publicLogs.py - INFO: 生成的可用端口:[4728] 
+2019-01-15 10:11:33,252 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 10:11:33,417 -publicLogs.py - INFO: 生成的可用端口:[2001] 
+2019-01-15 10:11:33,483 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 10:11:33,483 -publicLogs.py - INFO: ['appium -a 127.0.0.1 -p 4728 -bp 2001 --chromedriver-port 9519 -U 5376f2f6 --session-override'] 
+2019-01-15 10:12:51,947 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 10:12:52,017 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 10:12:52,049 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:12:52,176 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:12:52,178 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:12:52,214 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:13:14,723 -publicLogs.py - INFO: 获取成功 
+2019-01-15 10:13:24,835 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 10:13:24,908 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 10:13:24,911 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:13:24,951 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:13:24,953 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:13:24,990 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:13:44,157 -publicLogs.py - INFO: 获取成功 
+2019-01-15 10:22:23,164 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 10:22:23,236 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 10:22:23,240 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:22:23,280 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:22:23,283 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:22:23,322 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:22:41,467 -publicLogs.py - INFO: 获取成功 
+2019-01-15 10:28:44,621 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 10:28:44,691 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 10:28:44,694 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:28:44,732 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:28:44,733 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:28:44,772 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:29:02,680 -publicLogs.py - INFO: 获取成功 
+2019-01-15 10:32:31,423 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 10:32:31,513 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 10:32:31,516 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:32:31,552 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:32:31,555 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:32:31,592 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:32:50,266 -publicLogs.py - INFO: 获取成功 
+2019-01-15 10:34:56,984 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 10:34:57,082 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 10:34:57,085 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:34:57,131 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:34:57,134 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:34:57,178 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:35:14,924 -publicLogs.py - INFO: 获取成功 
+2019-01-15 10:43:41,993 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 10:43:42,114 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 10:43:42,117 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:43:42,154 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:43:42,157 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:43:42,194 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:43:59,798 -publicLogs.py - INFO: 获取成功 
+2019-01-15 10:45:25,930 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 10:45:26,000 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 10:45:26,003 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:45:26,039 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:45:26,042 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:45:26,078 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:45:43,760 -publicLogs.py - INFO: 获取成功 
+2019-01-15 10:47:57,637 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 10:47:57,707 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 10:47:57,710 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:47:57,746 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:47:57,749 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:47:57,786 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:48:15,575 -publicLogs.py - INFO: 获取成功 
+2019-01-15 10:49:16,494 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 10:49:16,563 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 10:49:16,568 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:49:16,605 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:49:16,608 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:49:16,642 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:49:35,674 -publicLogs.py - INFO: 获取成功 
+2019-01-15 10:51:26,138 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 10:51:26,210 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 10:51:26,213 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:51:26,252 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:51:26,255 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:51:26,293 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:51:43,855 -publicLogs.py - INFO: 获取成功 
+2019-01-15 10:53:24,282 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 10:53:24,351 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 10:53:24,355 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:53:24,394 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:53:24,398 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:53:24,431 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:53:42,082 -publicLogs.py - INFO: 获取成功 
+2019-01-15 10:55:41,920 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 10:55:41,990 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 10:55:41,993 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:55:42,032 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:55:42,033 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:55:42,071 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:55:59,924 -publicLogs.py - INFO: 获取成功 
+2019-01-15 10:57:05,051 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 10:57:05,134 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 10:57:05,138 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:57:05,176 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:57:05,178 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 10:57:05,221 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 10:57:24,423 -publicLogs.py - INFO: 获取成功 
+2019-01-15 11:09:39,688 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 11:09:39,763 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 11:09:39,766 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 11:09:39,805 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 11:09:39,809 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 11:09:39,846 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 11:09:57,519 -publicLogs.py - INFO: 获取成功 
+2019-01-15 11:10:31,598 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 11:10:31,668 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 11:10:31,671 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 11:10:31,710 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 11:10:31,713 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 11:10:31,749 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 11:10:50,861 -publicLogs.py - INFO: 获取成功 
+2019-01-15 15:10:36,223 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 15:10:36,319 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 15:10:36,394 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:10:36,594 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:10:36,599 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:10:36,690 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:10:58,690 -publicLogs.py - INFO: 获取成功 
+2019-01-15 15:12:36,974 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 15:12:37,072 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 15:12:37,075 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:12:37,119 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:12:37,122 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:12:37,164 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:12:55,040 -publicLogs.py - INFO: 获取成功 
+2019-01-15 15:18:53,839 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 15:18:53,917 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 15:18:53,921 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:18:53,977 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:18:53,980 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:18:54,022 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:19:13,707 -publicLogs.py - INFO: 获取成功 
+2019-01-15 15:19:13,756 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:23:45,851 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 15:23:45,924 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 15:23:45,927 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:23:45,967 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:23:45,969 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:23:46,009 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:24:03,805 -publicLogs.py - INFO: 获取成功 
+2019-01-15 15:24:03,831 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:24:14,184 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:24:24,351 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:24:24,371 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:24:30,525 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 15:24:30,609 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 15:24:30,612 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:24:30,654 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:24:30,657 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:24:30,696 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:24:49,828 -publicLogs.py - INFO: 获取成功 
+2019-01-15 15:24:49,867 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:25:00,312 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:25:10,697 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:25:10,724 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:25:28,517 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 15:25:28,611 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 15:25:28,614 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:25:28,651 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:25:28,654 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:25:28,690 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:25:47,911 -publicLogs.py - INFO: 获取成功 
+2019-01-15 15:25:58,256 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:26:08,375 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:26:08,397 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:27:44,174 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 15:27:44,253 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 15:27:44,256 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:27:44,298 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:27:44,301 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:27:44,338 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:28:02,437 -publicLogs.py - INFO: 获取成功 
+2019-01-15 15:28:02,533 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:28:34,711 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 15:28:34,783 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 15:28:34,788 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:28:34,825 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:28:34,828 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:28:34,867 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:28:53,943 -publicLogs.py - INFO: 获取成功 
+2019-01-15 15:28:53,966 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:28:54,019 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:30:04,029 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 15:30:04,098 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 15:30:04,101 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:30:04,141 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:30:04,144 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:30:04,183 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:30:22,101 -publicLogs.py - INFO: 获取成功 
+2019-01-15 15:31:05,684 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 15:31:05,769 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 15:31:05,772 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:31:05,811 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:31:05,812 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:31:05,851 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:31:25,233 -publicLogs.py - INFO: 获取成功 
+2019-01-15 15:31:35,934 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:31:46,273 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:31:56,967 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:32:07,418 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:35:15,878 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 15:35:15,953 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 15:35:15,956 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:35:15,993 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:35:15,996 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:35:16,029 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:35:33,854 -publicLogs.py - INFO: 获取成功 
+2019-01-15 15:35:44,313 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:35:54,595 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:36:05,690 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:36:16,233 -publicLogs.py - INFO: 没有改元素定位 
+2019-01-15 15:42:47,170 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 15:42:47,240 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 15:42:47,243 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:42:47,283 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:42:47,286 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:42:47,325 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:43:04,967 -publicLogs.py - INFO: 获取成功 
+2019-01-15 15:43:58,655 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 15:43:58,730 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 15:43:58,733 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:43:58,772 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:43:58,773 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:43:58,815 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:44:17,944 -publicLogs.py - INFO: 获取成功 
+2019-01-15 15:49:37,349 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 15:49:37,431 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 15:49:37,434 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:49:37,486 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:49:37,487 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:49:37,529 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:49:56,308 -publicLogs.py - INFO: 获取成功 
+2019-01-15 15:51:27,328 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 15:51:27,400 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 15:51:27,403 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:51:27,443 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:51:27,444 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:51:27,483 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:51:45,285 -publicLogs.py - INFO: 获取成功 
+2019-01-15 15:53:06,382 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 15:53:06,476 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 15:53:06,480 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:53:06,519 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:53:06,520 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:53:06,555 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:53:24,411 -publicLogs.py - INFO: 获取成功 
+2019-01-15 15:54:31,668 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 15:54:31,740 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 15:54:31,743 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:54:31,782 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:54:31,783 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:54:31,823 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:54:51,381 -publicLogs.py - INFO: 获取成功 
+2019-01-15 15:58:25,905 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 15:58:26,012 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 15:58:26,013 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:58:26,164 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:58:26,171 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 15:58:26,223 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 15:58:46,253 -publicLogs.py - INFO: 获取成功 
+2019-01-15 16:07:56,532 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 16:07:56,602 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 16:07:56,605 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 16:07:56,661 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 16:07:56,664 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 16:07:56,701 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 16:08:15,029 -publicLogs.py - INFO: 获取成功 
+2019-01-15 17:14:42,069 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 17:14:42,141 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 17:14:42,142 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:14:42,216 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:14:42,217 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:14:42,256 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:15:01,911 -publicLogs.py - INFO: 获取成功 
+2019-01-15 17:15:30,124 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 17:15:30,207 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 17:15:30,210 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:15:30,246 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:15:30,247 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:15:30,283 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:15:49,190 -publicLogs.py - INFO: 获取成功 
+2019-01-15 17:15:49,460 -publicLogs.py - INFO: 操作步骤:-------->点击我的 
+2019-01-15 17:16:03,733 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 17:16:03,818 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 17:16:03,819 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:16:03,857 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:16:03,858 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:16:03,897 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:16:23,003 -publicLogs.py - INFO: 获取成功 
+2019-01-15 17:16:23,328 -publicLogs.py - INFO: 操作步骤:-------->点击我的 
+2019-01-15 17:19:13,417 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 17:19:13,503 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 17:19:13,506 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:19:13,572 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:19:13,575 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:19:13,615 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:19:31,316 -publicLogs.py - INFO: 获取成功 
+2019-01-15 17:19:31,963 -publicLogs.py - INFO: 操作步骤:-------->点击我的 
+2019-01-15 17:22:37,845 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 17:22:37,918 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 17:22:37,921 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:22:38,434 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:22:38,440 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:22:38,484 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:22:57,398 -publicLogs.py - INFO: 获取成功 
+2019-01-15 17:22:57,667 -publicLogs.py - INFO: 操作步骤:-------->点击我的 
+2019-01-15 17:39:32,805 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 17:39:32,878 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 17:39:32,880 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:39:32,933 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:39:32,934 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:39:32,971 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:40:02,622 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 17:40:02,694 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 17:40:02,696 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:40:02,733 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:40:02,736 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:40:02,770 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:41:52,476 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 17:41:52,551 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 17:41:52,552 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:41:52,592 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:41:52,594 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:41:52,631 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:44:03,390 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 17:44:03,473 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 17:44:03,474 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:44:03,516 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:44:03,519 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:44:03,556 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:45:07,515 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 17:45:07,589 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 17:45:07,592 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:45:07,631 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:45:07,632 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:45:07,670 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:45:25,861 -publicLogs.py - INFO: 获取成功 
+2019-01-15 17:45:26,200 -publicLogs.py - INFO: 操作步骤:-------->点击我的 
+2019-01-15 17:54:29,213 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 17:54:29,286 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 17:54:29,289 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:54:29,329 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:54:29,332 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:54:29,369 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:54:47,341 -publicLogs.py - INFO: 获取成功 
+2019-01-15 17:54:47,611 -publicLogs.py - INFO: 操作步骤:-------->点击我的 
+2019-01-15 17:56:34,530 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 17:56:34,604 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 17:56:34,605 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:56:34,647 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:56:34,648 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:56:34,686 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:56:52,378 -publicLogs.py - INFO: 获取成功 
+2019-01-15 17:56:52,720 -publicLogs.py - INFO: 操作步骤:-------->点击我的 
+2019-01-15 17:58:45,164 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-15 17:58:45,236 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-15 17:58:45,240 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:58:45,280 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:58:45,282 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-15 17:58:45,319 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-15 17:59:02,865 -publicLogs.py - INFO: 获取成功 
+2019-01-15 17:59:03,193 -publicLogs.py - INFO: 操作步骤:-------->点击我的 
+2019-01-16 09:33:09,798 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-16 09:33:09,872 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-16 09:33:09,875 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 09:33:09,917 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 09:33:09,920 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 09:33:09,957 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 09:33:29,658 -publicLogs.py - INFO: 获取成功 
+2019-01-16 09:33:29,927 -publicLogs.py - INFO: 操作步骤:-------->点击我的 
+2019-01-16 09:33:43,653 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-16 09:33:43,723 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-16 09:33:43,726 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 09:33:43,763 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 09:33:43,765 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 09:33:43,805 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 09:34:04,078 -publicLogs.py - INFO: 获取成功 
+2019-01-16 09:34:04,378 -publicLogs.py - INFO: 操作步骤:-------->点击我的 
+2019-01-16 09:34:23,335 -publicLogs.py - INFO: 操作步骤:-------->输入账号,输入:17770000302 
+2019-01-16 09:34:29,778 -publicLogs.py - INFO: 操作步骤:-------->输入密码,输入:17770000302 
+2019-01-16 09:34:33,579 -publicLogs.py - INFO: 操作步骤:-------->点击登录 
+2019-01-16 10:02:36,881 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-16 10:02:36,984 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-16 10:02:36,987 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 10:02:37,032 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 10:02:37,033 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 10:02:37,068 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 10:02:56,881 -publicLogs.py - INFO: 获取成功 
+2019-01-16 10:04:52,138 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-16 10:04:52,209 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-16 10:04:52,210 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 10:04:52,250 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 10:04:52,253 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 10:04:52,292 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 10:05:10,888 -publicLogs.py - INFO: 获取成功 
+2019-01-16 10:05:25,026 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-16 10:05:25,122 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-16 10:05:25,125 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 10:05:25,164 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 10:05:25,165 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 10:05:25,203 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 10:05:45,858 -publicLogs.py - INFO: 获取成功 
+2019-01-16 10:05:46,138 -publicLogs.py - INFO: 操作步骤:-------->点击我的 
+2019-01-16 10:06:05,276 -publicLogs.py - INFO: 操作步骤:-------->输入账号,123 
+2019-01-16 10:06:10,769 -publicLogs.py - INFO: 操作步骤:-------->输入密码,123 
+2019-01-16 10:06:11,713 -publicLogs.py - INFO: 操作步骤:-------->点击登录 
+2019-01-16 10:07:07,908 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-16 10:07:07,980 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-16 10:07:07,983 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 10:07:08,025 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 10:07:08,026 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 10:07:08,065 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 10:07:28,426 -publicLogs.py - INFO: 获取成功 
+2019-01-16 10:07:28,756 -publicLogs.py - INFO: 操作步骤:-------->点击我的 
+2019-01-16 10:07:46,821 -publicLogs.py - INFO: 操作步骤:-------->输入账号,123 
+2019-01-16 10:07:52,551 -publicLogs.py - INFO: 操作步骤:-------->输入密码,123 
+2019-01-16 10:07:53,371 -publicLogs.py - INFO: 操作步骤:-------->点击登录 
+2019-01-16 10:11:14,029 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-16 10:11:14,122 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-16 10:11:14,125 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 10:11:14,164 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 10:11:14,164 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 10:11:14,203 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 10:11:32,871 -publicLogs.py - INFO: 获取成功 
+2019-01-16 10:11:33,217 -publicLogs.py - INFO: 操作步骤:-------->点击我的 
+2019-01-16 10:11:52,174 -publicLogs.py - INFO: 操作步骤:-------->输入账号:123 
+2019-01-16 10:11:57,869 -publicLogs.py - INFO: 操作步骤:-------->输入密码:123 
+2019-01-16 10:11:58,829 -publicLogs.py - INFO: 操作步骤:-------->点击登录 
+2019-01-16 10:17:14,805 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-16 10:17:14,903 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-16 10:17:14,904 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 10:17:14,944 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 10:17:14,947 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 10:17:14,984 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 10:17:33,657 -publicLogs.py - INFO: 获取成功 
+2019-01-16 10:17:34,108 -publicLogs.py - INFO: 操作步骤:-------->点击我的 
+2019-01-16 10:17:53,345 -publicLogs.py - INFO: 操作步骤:-------->输入账号:17770000302 
+2019-01-16 10:17:59,236 -publicLogs.py - INFO: 操作步骤:-------->输入密码:123 
+2019-01-16 10:18:00,085 -publicLogs.py - INFO: 操作步骤:-------->点击登录 
+2019-01-16 10:24:11,398 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-16 10:24:11,470 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-16 10:24:11,471 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 10:24:11,509 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 10:24:11,512 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 10:24:11,546 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 10:24:30,131 -publicLogs.py - INFO: 获取成功 
+2019-01-16 10:24:30,394 -publicLogs.py - INFO: 操作步骤:-------->点击我的 
+2019-01-16 10:24:49,591 -publicLogs.py - INFO: 操作步骤:-------->输入账号:17770000302 
+2019-01-16 10:24:55,487 -publicLogs.py - INFO: 操作步骤:-------->输入密码:123 
+2019-01-16 10:24:56,430 -publicLogs.py - INFO: 操作步骤:-------->点击登录 
+2019-01-16 10:25:17,253 -publicLogs.py - INFO: 操作步骤:-------->输入账号:1777000030 
+2019-01-16 10:25:23,644 -publicLogs.py - INFO: 操作步骤:-------->输入密码:xiaoxi123 
+2019-01-16 10:25:24,490 -publicLogs.py - INFO: 操作步骤:-------->点击登录 
+2019-01-16 10:25:43,388 -publicLogs.py - INFO: 操作步骤:-------->输入账号:17770000302 
+2019-01-16 10:25:49,335 -publicLogs.py - INFO: 操作步骤:-------->输入密码:xiaoxi123 
+2019-01-16 10:25:50,936 -publicLogs.py - INFO: 操作步骤:-------->点击登录 
+2019-01-16 10:34:45,802 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-16 10:34:45,877 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-16 10:34:45,880 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 10:34:45,921 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 10:34:45,923 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 10:34:45,961 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 10:35:05,095 -publicLogs.py - INFO: 获取成功 
+2019-01-16 10:35:05,385 -publicLogs.py - INFO: 操作步骤:-------->点击我的 
+2019-01-16 10:35:24,750 -publicLogs.py - INFO: 操作步骤:-------->输入账号:17770000302 
+2019-01-16 10:35:30,555 -publicLogs.py - INFO: 操作步骤:-------->输入密码:123 
+2019-01-16 10:35:31,408 -publicLogs.py - INFO: 操作步骤:-------->点击登录 
+2019-01-16 15:59:01,780 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-16 15:59:01,862 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-16 15:59:01,865 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 15:59:01,933 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 15:59:01,934 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 15:59:01,971 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 15:59:20,803 -publicLogs.py - INFO: 获取成功 
+2019-01-16 15:59:21,342 -publicLogs.py - INFO: 操作步骤:-------->点击我的 
+2019-01-16 15:59:41,756 -publicLogs.py - INFO: 操作步骤:-------->输入账号:17770000302 
+2019-01-16 15:59:47,334 -publicLogs.py - INFO: 操作步骤:-------->输入密码:123 
+2019-01-16 15:59:49,022 -publicLogs.py - INFO: 操作步骤:-------->点击登录 
+2019-01-16 16:01:09,042 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-16 16:01:09,125 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-16 16:01:09,127 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 16:01:09,183 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 16:01:09,184 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 16:01:09,223 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 16:10:10,868 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-16 16:10:10,940 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-16 16:10:10,943 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 16:10:11,003 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 16:10:11,006 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 16:10:11,042 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 16:10:28,707 -publicLogs.py - INFO: 获取成功 
+2019-01-16 16:10:29,184 -publicLogs.py - INFO: 操作步骤:-------->点击我的 
+2019-01-16 16:10:50,733 -publicLogs.py - INFO: 操作步骤:-------->输入账号:17770000302 
+2019-01-16 16:10:57,707 -publicLogs.py - INFO: 操作步骤:-------->输入密码:123 
+2019-01-16 16:10:58,572 -publicLogs.py - INFO: 操作步骤:-------->点击登录 
+2019-01-16 16:11:18,494 -publicLogs.py - INFO: 操作步骤:-------->输入账号:1777000030 
+2019-01-16 16:11:25,519 -publicLogs.py - INFO: 操作步骤:-------->输入密码:xiaoxi123 
+2019-01-16 16:11:30,411 -publicLogs.py - INFO: 操作步骤:-------->点击登录 
+2019-01-16 16:11:53,654 -publicLogs.py - INFO: 操作步骤:-------->输入账号:17770000302 
+2019-01-16 16:12:00,121 -publicLogs.py - INFO: 操作步骤:-------->输入密码:xiaoxi123 
+2019-01-16 16:12:01,030 -publicLogs.py - INFO: 操作步骤:-------->点击登录 
+2019-01-16 16:48:28,145 -publicLogs.py - INFO: 设备:6.0.1 , 型号:vivo Y66, 品牌:vivo, 设备名:PD1621 
+2019-01-16 16:48:28,242 -publicLogs.py - INFO: 手机设备id为:['5376f2f6'] 
+2019-01-16 16:48:28,243 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 16:48:28,292 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 16:48:28,295 -publicLogs.py - INFO: 获取包名和类名的命令:E:\pycharm\PycharmProjects\testUi\public\..\util\\aapt.exe dump badging E:\pycharm\PycharmProjects\testUi\public\..\apk\\jhj_uat_v2.8.4.0.uat.build_20181212090930.apk 
+2019-01-16 16:48:28,334 -publicLogs.py - INFO:  包名：com.platform.jhj ,类名：com.platform.jhj.activity.SplashActivity 版本号：2.8.4.0.uat.build , 版本名称：2840  
+2019-01-16 16:48:46,105 -publicLogs.py - INFO: 获取成功 
+2019-01-16 16:48:46,473 -publicLogs.py - INFO: 操作步骤:-------->点击我的 
+2019-01-16 16:49:09,854 -publicLogs.py - INFO: 操作步骤:-------->输入账号:17770000302 
+2019-01-16 16:49:19,085 -publicLogs.py - INFO: 操作步骤:-------->输入密码:123 
+2019-01-16 16:49:20,005 -publicLogs.py - INFO: 操作步骤:-------->点击登录 
